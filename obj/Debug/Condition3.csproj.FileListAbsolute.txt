@@ -4,3 +4,4 @@ C:\Users\Moi\source\repos\Condition\Condition3\Condition3\bin\Debug\Condition3.e
 C:\Users\Moi\source\repos\Condition\Condition3\Condition3\bin\Debug\Condition3.pdb
 C:\Users\Moi\source\repos\Condition\Condition3\Condition3\obj\Debug\Condition3.exe
 C:\Users\Moi\source\repos\Condition\Condition3\Condition3\obj\Debug\Condition3.pdb
+C:\Users\Moi\source\repos\Condition\Condition3\Condition3\obj\Debug\Condition3.csprojAssemblyReference.cache
